@@ -1,0 +1,13 @@
+sorted numbers in Ascending order:
+4
+12
+18
+25
+42
+
+sorted numbers in Descending order:
+42
+25
+18
+12
+4
